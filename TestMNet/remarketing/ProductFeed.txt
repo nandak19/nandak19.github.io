@@ -1,0 +1,20 @@
+id	title	description	google product category	product type	link	image link	condition	availability	price	sale price	sale price effective date	gtin	brand	mpn	item group id	gender	age group	color	size	shipping	shipping weight
+babyclothes	babyclothes - Title	babyclothes - Description	KidsWear > babyclothes	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p1-babyclothes.html	http://www.nandak.tk/remarketing/KidsWear/images/babyclothes.jpg	used	in stock	159 USD			719192194052.00	LG	22LB4510/US		male				US::Standard:14.95 USD	9.2 lbs
+Brown	Brown - Title	Brown - Description	KidsWear > Brown	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p2-brown.html	http://www.nandak.tk/remarketing/KidsWear/images/Brown.jpg	new	in stock	11.99 USD			883929165605.00	BBC			male				US::Express:3.80 USD	
+BrownGirl	BrownGirl - Title	BrownGirl - Description	KidsWear > BrownGirl	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p3-BrownGirl.html	http://www.nandak.tk/remarketing/KidsWear/images/BrownGirl.jpg	new	in stock	99 USD			3348901056069.00	Dior			male				US::Express:3.80 USD	
+Red	Red - Title	Red - Description	KidsWear > Red	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p4-Red.html	http://www.nandak.tk/remarketing/KidsWear/images/Red.jpg	new	out of stock	29.5 USD				M&S	B003J5F5EY	CLO-29473856	Female		Navy	8 Standard	US::Express:3.80 USD	750 g
+Red2	Red2 - Title	Red2 - Description	KidsWear > Red2	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p5-Red2.html	http://www.nandak.tk/remarketing/KidsWear/images/Red2.jpg	new	in stock	29.5 USD				M&S	B003J5F5EY	CLO-29473856	Female		Navy	8 Tall	US::Express:3.80 USD	820 g
+yellow	yellow - Title	yellow - Description	KidsWear > yellow	KidsWear	http://www.nandak.tk/remarketing/KidsWear/p6-yellow.html	http://www.nandak.tk/remarketing/KidsWear/images/yellow.jpg	new	in stock	33.99 USD	25.49 USD	2011-03-01T16:00-08:00/2011-03-03T16:00-08:00		Tenn Cool			Female		Black/Red/White	M	US::Standard Free Shipping:0 USD	
+																					
+																					
+																					
+																					
+						Please refer to the following articles for help populating this spreadsheet and make sure to delete these lines before processing the feed.		"After you are done inputting your own product information into this spreadsheet, please return to the 'Data feeds' tab of Google Merchant Center. Click the 'Upload now' link corresponding to this feed."		"If you can't edit this spreadsheet, please be sure you're signed in. Click the 'Sign In' link in the top right of the screen."											
+						Products Feed Specification															
+						Google Spreadsheet Data Feed Instructions															
+																					
+																					
+																					
+																					
+																					
+																					
